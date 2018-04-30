@@ -1,6 +1,6 @@
 {
     "name": "geekio/laravel-rabbitmq",
-    "description": "Use rabbitmq to implements a queue extensions for laravel.",
+    "description": "A queue extension for laravel that based on rabbitmq implementation.",
     "type": "library",
     "license": "MIT",
     "authors": [
